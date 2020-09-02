@@ -32,3 +32,4 @@ function getName(firstName: string, lastName?: string): string{
 
 function myVoid(): void{
 }
+//   console.log(myVoid());
